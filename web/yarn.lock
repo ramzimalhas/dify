@@ -590,10 +590,10 @@
   dependencies:
     glob "7.1.7"
 
-"@next/mdx@^14.0.4":
-  version "14.0.4"
-  resolved "https://registry.npmjs.org/@next/mdx/-/mdx-14.0.4.tgz"
-  integrity sha512-w0b+A2LRdlqqTIzmaeqPOaafid2cYYYjETA+G+3ZFwkNbBQjvZp57P1waOexF3MGHzcCEoXEnhYpAc+FO6S0Rg==
+"@next/mdx@^14.2.5":
+  version "14.2.6"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-14.2.6.tgz#23405d377dd978541f57695499d79bb4fb3d61a4"
+  integrity sha512-59jhA506DXouG5T1lUjG8TAYGIQNia6hDuDgRIJwWfOEzgDvIOZHL3/oUGFH9BS2/Y75a9y0l65Lz0aMvUEWeg==
   dependencies:
     source-map "^0.7.0"
 
